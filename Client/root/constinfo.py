@@ -1,3 +1,6 @@
+# Add import:
+import app
+
 # Search:
 ENVIRONMENT_NIGHT="d:/ymir work/environment/moonlight04.msenv"
 
