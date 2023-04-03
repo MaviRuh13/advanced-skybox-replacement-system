@@ -1,7 +1,8 @@
 # Add:
 import maviruhInfo
 
-WATER_BUTTONS_HEIGHT = 265
+WATER_BUTTONS_HEIGHT	= 265
+XSMALL_BUTTON_WIDTH	= 20
 
 # Search:
 	"height" : 25*11+8,
