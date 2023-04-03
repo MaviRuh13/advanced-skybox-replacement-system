@@ -1,3 +1,6 @@
+# Add import:
+import background
+
 # Search:
 		self.RefreshShowSalesText()
 
